@@ -1,0 +1,12 @@
+c:\users\suyash\documents\visual studio 2015\Projects\Gaming Center\Gaming Center\bin\Debug\Gaming Center.exe.config
+c:\users\suyash\documents\visual studio 2015\Projects\Gaming Center\Gaming Center\bin\Debug\Gaming Center.exe
+c:\users\suyash\documents\visual studio 2015\Projects\Gaming Center\Gaming Center\bin\Debug\Gaming Center.pdb
+c:\users\suyash\documents\visual studio 2015\Projects\Gaming Center\Gaming Center\obj\Debug\Gaming Center.csprojResolveAssemblyReference.cache
+c:\users\suyash\documents\visual studio 2015\Projects\Gaming Center\Gaming Center\obj\Debug\Gaming_Center.Gaming_Center.resources
+c:\users\suyash\documents\visual studio 2015\Projects\Gaming Center\Gaming Center\obj\Debug\Gaming_Center.Properties.Resources.resources
+c:\users\suyash\documents\visual studio 2015\Projects\Gaming Center\Gaming Center\obj\Debug\Gaming Center.csproj.GenerateResource.Cache
+c:\users\suyash\documents\visual studio 2015\Projects\Gaming Center\Gaming Center\obj\Debug\Gaming Center.exe
+c:\users\suyash\documents\visual studio 2015\Projects\Gaming Center\Gaming Center\obj\Debug\Gaming Center.pdb
+c:\users\suyash\documents\visual studio 2015\Projects\Gaming Center\Gaming Center\obj\Debug\Maze_Game.Form1.resources
+c:\users\suyash\documents\visual studio 2015\Projects\Gaming Center\Gaming Center\obj\Debug\MAtching_Game.Form1.resources
+C:\Users\Suyash\Documents\Visual Studio 2015\Projects\Gaming Center\Gaming Center\obj\Debug\Snake.Form1.resources

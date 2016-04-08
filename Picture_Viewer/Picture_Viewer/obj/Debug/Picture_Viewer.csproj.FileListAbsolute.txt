@@ -1,0 +1,9 @@
+c:\users\suyash\documents\visual studio 2015\Projects\Picture_Viewer\Picture_Viewer\bin\Debug\Picture_Viewer.exe.config
+c:\users\suyash\documents\visual studio 2015\Projects\Picture_Viewer\Picture_Viewer\bin\Debug\Picture_Viewer.exe
+c:\users\suyash\documents\visual studio 2015\Projects\Picture_Viewer\Picture_Viewer\bin\Debug\Picture_Viewer.pdb
+c:\users\suyash\documents\visual studio 2015\Projects\Picture_Viewer\Picture_Viewer\obj\Debug\Picture_Viewer.csprojResolveAssemblyReference.cache
+c:\users\suyash\documents\visual studio 2015\Projects\Picture_Viewer\Picture_Viewer\obj\Debug\Picture_Viewer.Properties.Resources.resources
+c:\users\suyash\documents\visual studio 2015\Projects\Picture_Viewer\Picture_Viewer\obj\Debug\Picture_Viewer.csproj.GenerateResource.Cache
+c:\users\suyash\documents\visual studio 2015\Projects\Picture_Viewer\Picture_Viewer\obj\Debug\Picture_Viewer.exe
+c:\users\suyash\documents\visual studio 2015\Projects\Picture_Viewer\Picture_Viewer\obj\Debug\Picture_Viewer.pdb
+c:\users\suyash\documents\visual studio 2015\Projects\Picture_Viewer\Picture_Viewer\obj\Debug\Picture_Viewer.Form1.resources
